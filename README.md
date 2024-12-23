@@ -107,7 +107,7 @@ needed. Development versions of zlib and libfdt are also required.
 To install the dependencies on Ubuntu 20.04 using package manager:
 
 ```bash
-sudo apt install libusb-1.0-0-dev libz-dev libfdt-dev
+sudo apt install libusb-1.0-0-dev libz-dev libfdt-dev pkg-config
 ```
 
 Available build targets:
